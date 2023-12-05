@@ -1,9 +1,9 @@
-**Date**<br>
-**Course Code & Course Name**<br>
-**Student's First Name & Last Name**<br>
-**Presented to Jean-Sébastien Marier**<br>
+**December 21st 2023**<br>
+**CMN 4100 - Digital Journalism 2**<br>
+**Téana Averbeck**<br>
+**Presented to Professor Jean-Sébastien Marier,BA,MJ**<br>
 
-# Project 2: Basic Data Analysis & Visualization
+# Take-Home Exam: Data-Driven Multimedia Story
 
 Use one hashtag symbol (`#`) to create a level 1 heading like this one.
 
