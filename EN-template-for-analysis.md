@@ -21,13 +21,8 @@ In order for the data to be transparent, it is important to highlight the method
 7. Remove all agencies that are not Crown Corporations according to the Treasury Board.
 
 After completing all these steps, my dataset resembled this:
-
-Use two hashtag symbols (`##`) to create a level 2 heading like this one.
-
-To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
-
-![](import-screen-capture.png)<br>
-*Figure 1: The "Import file" prompt on Google Sheets.*
+![](sheets.png)<br>
+*Figure 1: The dataset.*
 
 **Here are examples of functions and lines of code put in grey boxes:**
 
