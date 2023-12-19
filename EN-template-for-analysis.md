@@ -11,6 +11,17 @@ Access to information and privacy (ATIP) is an act under the government of Canad
 
 ## 2. Data Cleaning
 
+In order for the data to be transparent, it is important to highlight the methodology used to clean the dataset. The original dataset I had exported from the Government of Canada into Google Sheets contained all ATIP request summaries from 2011-2023 inclusively. As this dataset was enormous, I decided to narrow down my search and only focus on the 2023 requests thus far, thus I created filters to identify all years prior to 2023 then deleted them all. To make all of the information clearer I subsequently:
+1. Froze the top columns;
+2. Used a filter to organize the months in order (‘Sort A-Z’);
+3. Removed all the french using `=SPLIT(M2,"|")` then dragging the formula for the rest of the columns to ensure all the columns are split equally and are all uniform;
+4. Copy pasted both new columns that were a result of the Split function, then deleted the french and the original column; 
+5. Deleted all french language by deleting the columns summary_fr and comments_fr;
+6. Hid the summary_en column as it provided immense unnecessary detail;
+7. Remove all agencies that are not Crown Corporations according to the Treasury Board.
+
+After completing all these steps, my dataset resembled this:
+
 Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
 To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
