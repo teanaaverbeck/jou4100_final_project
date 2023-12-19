@@ -23,17 +23,19 @@ In order for the data to be transparent, it is important to highlight the method
 
 After completing all these steps, my dataset resembled this:
 ![](sheets.png)<br>
-*Figure 1: Sheets Dataset after data cleaning*
+*Figure 2: Sheets Dataset after data cleaning*
 
 Using this new dataset, I created a pivot table with each crown corporation in the y axis, each type of record disclosure (all disclosed, disclosed in part, all excluded, all exempt and no records exist) in the x-axis and all the request summaries as the values in the middle of the table. I then used this pivot table to create a multiple pie chart of all the Crown Corporations in order to illustrate the different types of record disclosure proper to each Crown Corporation in addition to demonstrating which had more/less ATIP requests in 2023.
 
 ![](ATIP%20requests%20for%20crown%20corps%20divided%20by%20dispositions%202023.png) 
-*Figure 2: ATIP requests for all Crown Corporations divided by dispositions in 2023 [Interactive version here](https://datawrapper.dwcdn.net/JgLF2/3/)*
+*Figure 3: ATIP requests for all Crown Corporations divided by dispositions in 2023 [Interactive version here](https://datawrapper.dwcdn.net/JgLF2/3/)*
 
 ## 3. Leveraging the data to find information
 
 Looking at this new dataset in a visual form allows us to see clearly what request types are most recurring, which visually appeared to be disclosed in part. Furthermore, the new dataset and chart tells us that the National Capital Commission was the Crown Corporation with the most ATIP requests for 2023 so far, totalling 87 requests with 57 of these requests being disclosed in part, 22 all disclosed and 8 exempt. 
 
+![](National%20Capital%20Commission%20ATIP%20Request%20summaries%20breakdown%202023.png)
+*Figure 4: Breakdown of all ATIP record requests for the National Capital Commission in 2023 thus far [Interactive version here](https://datawrapper.dwcdn.net/slM75/1/)*
 
 ### 3.1. Cleaning Data
 
