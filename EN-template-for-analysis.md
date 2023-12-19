@@ -30,7 +30,10 @@ Using this new dataset, I created a pivot table with each crown corporation in t
 ![](ATIP%20requests%20for%20crown%20corps%20divided%20by%20dispositions%202023.png) 
 *Figure 2: ATIP requests for all Crown Corporations divided by dispositions in 2023 [Interactive version here](https://datawrapper.dwcdn.net/JgLF2/3/)*
 
-## 3. Understanding Data
+## 3. Leveraging the data to find information
+
+Looking at this new dataset in a visual form allows us to see clearly what request types are most recurring, which visually appeared to be disclosed in part. Furthermore, the new dataset and chart tells us that the National Capital Commission was the Crown Corporation with the most ATIP requests for 2023 so far, totalling 87 requests with 57 of these requests being disclosed in part, 22 all disclosed and 8 exempt. 
+
 
 ### 3.1. Cleaning Data
 
