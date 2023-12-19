@@ -27,19 +27,8 @@ After completing all these steps, my dataset resembled this:
 
 Using this new dataset, I created a pivot table with each crown corporation in the y axis, each type of record disclosure (all disclosed, disclosed in part, all excluded, all exempt and no records exist) in the x-axis and all the request summaries as the values in the middle of the table. I then used this pivot table to create a multiple pie chart of all the Crown Corporations in order to illustrate the different types of record disclosure proper to each Crown Corporation in addition to demonstrating which had more/less ATIP requests in 2023.
 
-![]()<br>
-[Interactive version here](https://datawrapper.dwcdn.net/JgLF2/3/) 
-
-**Here are examples of functions and lines of code put in grey boxes:**
-
-1. If you name a function, put it between "angled" quotation marks like this: `IMPORTHTML`.
-1. If you want to include the entire line of code, do the same thing, albeit with your entire code: `=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)`.
-1. Alternatively, you can put your code in an independent box using the template below:
-
-``` r
-=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)
-```
-This also shows how to create an ordered list. Simply put `1.` before each item.
+![](ATIP%20requests%20for%20crown%20corps%20divided%20by%20dispositions%202023.png) 
+*Figure 2: ATIP requests for all Crown Corporations divided by dispositions in 2023 [Interactive version here](https://datawrapper.dwcdn.net/JgLF2/3/)*
 
 ## 3. Understanding Data
 
