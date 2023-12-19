@@ -12,17 +12,23 @@ Access to information and privacy (ATIP) is an act under the government of Canad
 ## 2. Data Cleaning
 
 In order for the data to be transparent, it is important to highlight the methodology used to clean the dataset. The original dataset I had exported from the Government of Canada into Google Sheets contained all ATIP request summaries from 2011-2023 inclusively. As this dataset was enormous, I decided to narrow down my search and only focus on the 2023 requests thus far, thus I created filters to identify all years prior to 2023 then deleted them all. To make all of the information clearer I subsequently:
-1. Froze the top columns;
-2. Used a filter to organize the months in order (‘Sort A-Z’);
-3. Removed all the french using `=SPLIT(M2,"|")` then dragging the formula for the rest of the columns to ensure all the columns are split equally and are all uniform;
-4. Copy pasted both new columns that were a result of the Split function, then deleted the french and the original column; 
-5. Deleted all french language by deleting the columns summary_fr and comments_fr;
-6. Hid the summary_en column as it provided immense unnecessary detail;
-7. Remove all agencies that are not Crown Corporations according to the Treasury Board.
+
+`1.` Froze the top columns;
+`2.` Used a filter to organize the months in order (‘Sort A-Z’);
+`3.` Removed all the french using `=SPLIT(M2,"|")` then dragging the formula for the rest of the columns to ensure all the columns are split equally and are all uniform;
+`4.` Copy pasted both new columns that were a result of the Split function, then deleted the french and the original column; 
+`5.` Deleted all french language by deleting the columns summary_fr and comments_fr;
+`6.` Hid the summary_en column as it provided immense unnecessary detail;
+`7.` Remove all agencies that are not Crown Corporations according to the Treasury Board.
 
 After completing all these steps, my dataset resembled this:
 ![](sheets.png)<br>
-*Figure 1: The dataset.*
+*Figure 1: Sheets Dataset after data cleaning*
+
+Using this new dataset, I created a pivot table with each crown corporation in the y axis, each type of record disclosure (all disclosed, disclosed in part, all excluded, all exempt and no records exist) in the x-axis and all the request summaries as the values in the middle of the table. I then used this pivot table to create a multiple pie chart of all the Crown Corporations in order to illustrate the different types of record disclosure proper to each Crown Corporation in addition to demonstrating which had more/less ATIP requests in 2023.
+
+![]()<br>
+[Interactive version here](https://datawrapper.dwcdn.net/JgLF2/3/) 
 
 **Here are examples of functions and lines of code put in grey boxes:**
 
