@@ -57,4 +57,9 @@ To create an ATIP Request please visit [the Treasury Board of Canada Secretariat
 
 ## 5. References
 
+The Law Society of Ontario. (2023). Biographies of Early and Exceptional Ontario Lawyers of Diverse Communities Arranged By Diverse Community. The Law Society of Ontario. https://lso.ca/about-lso/osgoode-hall-and-ontario-legal-heritage/collections-and-research/online-resources-and-finding-aids/diversifying-the-bar-lawyers-make-history/biographies-diverse-community 
+
+Treasury Board of Canada Secretariat, Government of Canada. (2022, November 29). List of Crown corporations. Canada.ca. https://www.canada.ca/en/treasury-board-secretariat/services/guidance-crown-corporations/list-crown-corporations.html 
+
+Treasury Board of Canada Secretariat, Government of Canada. (2023, December 18). Make an access to information or personal information request. Canada.ca. https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/request-information.html 
 
