@@ -9,7 +9,8 @@
 
 Access to information and privacy (ATIP) is an act under the government of Canada which gives any Canadian citizen, permanent resident or any person or corporation residing in Canada the right to access records belonging to any government institution which also includes personal information held by these government institutions (Government of Canada, 2023). Examples of records that may be requested include but are not limited to: Briefing notes, memos, reports, Correspondences (including emails), Financial reports, etc. All summaries of record requests are publicly available information and available as a Government of Canada dataset. As this dataset is rather large in size, I decided to focus only on all ATIP requests for Crown Corporations in 2023. Crown Corporations are essentially government organizations that, while representing governmental interests, have a large measure of autonomy that allows them to function as a commercial entity. This model allows the organization to function as a hybrid of both the private and public sector. The main focus of my research was to determine which Crown Corporations had the most ATIP requests, and for those requests how many records were all disclosed, disclosed in part, all excluded, all exempt and no records exist (Government of Canada, 2023). Furthermore, I wanted to use this discovered data to analyze any potential trends and examine if there was any reasoning behind trends in results of how much or how little information was released.
 
-![]
+![](IMG_6145.jpeg)
+*Figure 1: Parliament Hill.*
 
 ## 2. Data Cleaning
 
