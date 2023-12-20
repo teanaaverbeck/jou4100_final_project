@@ -9,6 +9,8 @@
 
 Access to information and privacy (ATIP) is an act under the government of Canada which gives any Canadian citizen, permanent resident or any person or corporation residing in Canada the right to access records belonging to any government institution which also includes personal information held by these government institutions (Government of Canada, 2023). Examples of records that may be requested include but are not limited to: Briefing notes, memos, reports, Correspondences (including emails), Financial reports, etc. All summaries of record requests are publicly available information and available as a Government of Canada dataset. As this dataset is rather large in size, I decided to focus only on all ATIP requests for Crown Corporations in 2023. Crown Corporations are essentially government organizations that, while representing governmental interests, have a large measure of autonomy that allows them to function as a commercial entity. This model allows the organization to function as a hybrid of both the private and public sector. The main focus of my research was to determine which Crown Corporations had the most ATIP requests, and for those requests how many records were all disclosed, disclosed in part, all excluded, all exempt and no records exist (Government of Canada, 2023). Furthermore, I wanted to use this discovered data to analyze any potential trends and examine if there was any reasoning behind trends in results of how much or how little information was released.
 
+![]
+
 ## 2. Data Cleaning
 
 In order for the data to be transparent, it is important to highlight the methodology used to clean the dataset. The original dataset I had exported from the Government of Canada into Google Sheets contained all ATIP request summaries from 2011-2023 inclusively. As this dataset was enormous, I decided to narrow down my search and only focus on the 2023 requests thus far, thus I created filters to identify all years prior to 2023 then deleted them all. To make all of the information clearer I subsequently:
@@ -22,7 +24,7 @@ In order for the data to be transparent, it is important to highlight the method
 `7.` Remove all agencies that are not Crown Corporations according to the [Treasury Board of Canada Secretariat.](https://www.canada.ca/en/treasury-board-secretariat/services/guidance-crown-corporations/list-crown-corporations.html)
 
 After completing all these steps, my dataset resembled this:
-![](sheets.png)<br>
+![](sheets.png)
 *Figure 2: Sheets Dataset after data cleaning*
 
 Using this new dataset, I created a pivot table with each crown corporation in the y axis, each type of record disclosure (all disclosed, disclosed in part, all excluded, all exempt and no records exist) in the x-axis and all the request summaries as the values in the middle of the table. I then used this pivot table to create a multiple pie chart of all the Crown Corporations in order to illustrate the different types of record disclosure proper to each Crown Corporation in addition to demonstrating which had more/less ATIP requests in 2023.
