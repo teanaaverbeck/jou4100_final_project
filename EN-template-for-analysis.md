@@ -40,17 +40,19 @@ Looking at this new dataset in a visual form allows us to see clearly what reque
 To gain a better understanding of the National Capital Commision’s ATIP requests procedure, I sat down with Alain Belleville, the Access to Information and Privacy Coordinator at the National Capital Commission (NCC). Belleville outlined the lengthy, yet thorough process that is conducted once an ATIP request is placed. Essentially, when someone from the public makes a request by either sending the NCC an email or letter, or can go through the Treasury Board’s online portal, subsequently an analyst from the NCC then ensures the request form is properly filled out and that they properly understand the request. The analyst then removes any duplicate records, ensures that all the records are responsive and looks to see if anything is missing. Next, the analyst consults with the third parties and other governments to see which information they can/cannot release. After the analyst completes this portion, it is then usually given to Belleville, to approve the application and any release of information/exemptions. Belleville explains that there are two types of exemptions, mandatory, where it must be excluded and discretionary, where the analyst and Belleville may choose to release it or not. In regards to the percentage of ATIP requests that are disclosed, Belleville explained that the majority of records that may be only partially disclosed may not be properly representative of how much information is disclosed. He explains that even if a small phrase is excluded it becomes classified as partially disclosed. As the NCC operates with a policy of attempting to provide the most information possible, it is plausible to recognize that non disclosed information in the partially disclosed category may only represent a small percentage of information that is truly not disclosed. 
 
 ![](Interview%20with%20Alain%20Belleville,%20NCC.png)
-*Figure 5: Screenshot of interview with Alain Belleville conducted via Microsoft Teams*
+*Figure 5: Screenshot of interview with Alain Belleville conducted via Microsoft Teams.*
 
 ![](IMG_6138.jpeg)
-*Figure 6: The National Capital Commission Building (yellow building) behind a coffee shop (burgundy building)*
+*Figure 6: The National Capital Commission Building (yellow building) behind a coffee shop (burgundy building).*
 
 ## 3. Looking ahead: ATIP requests change in legislation
 
 
+![](IMG_6129.jpeg)
+*Figure 7: Pierre Poilievre's office in Manotick, Ontario.*
 
 ## 4. Resources
-
+To create an ATIP Request please visit [the Treasury Board's website](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/request-information/types-atip-requests.html). 
 
 ## 5. References
 
