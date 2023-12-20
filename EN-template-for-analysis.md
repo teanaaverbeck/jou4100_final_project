@@ -45,40 +45,13 @@ To gain a better understanding of the National Capital Commision’s ATIP reques
 ![](IMG_6138.jpeg)
 *Figure 6: The National Capital Commission Building (yellow building) behind a coffee shop (burgundy building)*
 
-### 3.1. Cleaning Data
+## 3. Looking ahead: ATIP requests change in legislation
 
-Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
 
-Insert text here.
 
-Support your claims by citing relevant sources. Please follow [APA guidelines for in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
+## 4. Resources
 
-**For example:**
 
-As Cairo (2016) argues, a data visualization should be truthful...
+## 5. References
 
-### 3.2. Exploratory Data Analysis
 
-Insert text here.
-
-## 4. Delivering Data
-
-Insert text here.
-
-**This section should include a screen capture of your chart and its public link, like so:**
-
-![](map-screen-capture.png)<br>
-*Figure 2: The map created with Datawrapper*
-[Interactive version here](https://datawrapper.dwcdn.net/o7Wwp/2/)
-
-## 5. Conclusion
-
-Thank you for reading my report.
-
-## 6. References
-
-Include a list of your references here. Please follow [APA guidelines for references](https://apastyle.apa.org/style-grammar-guidelines/references). Hanging paragraphs aren't required though.
-
-**Here's an example:**
-
-Bounegru, L., & Gray, J. (Eds.). (2021). *The Data Journalism Handbook 2: Towards A Critical Data Practice*. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
