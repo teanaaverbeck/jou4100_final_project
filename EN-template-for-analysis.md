@@ -42,6 +42,9 @@ To gain a better understanding of the National Capital Commision’s ATIP reques
 ![](Interview%20with%20Alain%20Belleville,%20NCC.png)
 *Figure 5: Screenshot of interview with Alain Belleville conducted via Microsoft Teams*
 
+![](IMG_6138.jpeg)
+*Figure 6: The National Capital Commission Building (yellow building) behind a coffee shop (burgundy building)*
+
 ### 3.1. Cleaning Data
 
 Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
