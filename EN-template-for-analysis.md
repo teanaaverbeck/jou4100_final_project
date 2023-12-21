@@ -54,7 +54,10 @@ To gain a better understanding of the National Capital Commision’s ATIP reques
 ![](IMG_6129.jpeg)
 *Figure 7: Pierre Poilievre's office in Manotick, Ontario.*
 
-## 4. Resources
+![](IMG_6132.jpeg)
+*Figure 8: Manotick, a suburb of Ottawa Ontario.*
+
+## 4. Additional Resources
 
 To create an ATIP Request please visit [the Treasury Board of Canada Secretariat website](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/request-information/types-atip-requests.html). 
 
